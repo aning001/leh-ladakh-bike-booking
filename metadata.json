@@ -1,0 +1,6 @@
+{
+  "name": "Leh Ladakh Bike Booking",
+  "description": "Premium bullet and Himalayan bike rentals in Ladakh with an interactive route map and custom booking system directly integrated with WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
